@@ -1,4 +1,4 @@
-# GG-Net
+# GlobalGuidance-Net
 by Cheng Xue, Lei Zhu, Huazhu Fu, Xiaowei Hu, Xiaomeng Li, Hai Zhang, Pheng Ann Heng
 
 
