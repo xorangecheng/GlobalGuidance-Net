@@ -5,7 +5,7 @@ by Cheng Xue, Lei Zhu, Huazhu Fu, Xiaowei Hu, Xiaomeng Li, Hai Zhang, Pheng Ann 
 ## Introduction
 
 This repository is for our MIA 2021 paper '[Global guidance network for breast lesion segmentation in ultrasound images](https://arxiv.org/abs/2104.01896.pdf)'.
-![](figure/arc.png)
+[](figure/arc.png)
 ## Requirement
 * Python 
 * PyTorch
